@@ -1,4 +1,4 @@
-# Cropland Extent Mapping Challenge - Participant Repository
+# Cropland Extent Mapping Challenge
 
 This repository contains my submission for the Cropland Extent Mapping Challenge, where I have developed a cropland extent mapping solution using machine learning techniques. This README.md file provides an overview of my project and how to use the code.
 
