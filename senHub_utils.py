@@ -50,9 +50,9 @@ def get_any_image_from_sentinelhub(polygon, date, evalscript, location):
 
 def get_sentinelhub_api_config():
     config = SHConfig()
-    config.instance_id       = '44c8ea2e-d9ca-4fc1-9326-c9a95d98225e'   
-    config.sh_client_id      = '8955b169-0ae5-4775-a68d-c1bcf0f95310' 
-    config.sh_client_secret  = '@12~GlPfQhTxT^<?V8kw1HXo52IfcS_C*_2:5t(I'
+    config.instance_id       = ''   
+    config.sh_client_id      = '' 
+    config.sh_client_secret  = ''
     return config
 
 
